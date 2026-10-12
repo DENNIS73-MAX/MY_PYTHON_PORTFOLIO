@@ -1,0 +1,7 @@
+print("=== SIMPLE CALCULATOR ===")
+a = int(input("First number: "))
+b = int(input("Second number: "))
+print(f"Add: {a+b}")
+print(f"Minus: {a-b}")
+print(f"Times: {a*b}")
+print(f"Divide: {a/b}")
